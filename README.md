@@ -1,5 +1,4 @@
 
-
 # TruthLens - AI-Powered Hiring Verification Platform
 
 **Trust your hiring process again.**
