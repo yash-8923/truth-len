@@ -6,7 +6,7 @@
 
 TruthLens is an intelligent hiring verification platform that helps you verify candidate authenticity through comprehensive analysis of CVs, LinkedIn profiles, GitHub account.
 
-🌐 **Live Demo**: [TruthLens.click](http://TruthLens.click/)
+
 
 ---
 
